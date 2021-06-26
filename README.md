@@ -3,7 +3,7 @@
 ### Sobre mim
 
 <p>
-  Eu sou formada em administração e estou em busca de fazer a transição de carreira para a área de tecnologia, especificamente como desenvolvedora front-end.
+  Eu sou formada em administração e estou fazendo transição de carreira para a área de tecnologia, especificamente como desenvolvedora front-end.
 <p>
   No momento eu sou aluna da turma 10 de front-end da <a href="https://reprograma.com.br/">Reprograma</a>.
   
