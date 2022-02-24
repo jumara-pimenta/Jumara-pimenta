@@ -1,21 +1,23 @@
-# Hi, I'm **Jumara Pimenta** 👋
+# Oi, eu sou **Jumara Pimenta** 👋
 
 ### Sobre mim
 
 <p>
-  Eu sou formada em administração e estou fazendo transição de carreira para a área de tecnologia, especificamente como desenvolvedora front-end.
+  Eu sou formada em administração e em 2021 resolvi fazer transição de carreira para a área de tecnologia. Fui aluna na turma 10 de front-end da <a href="https://reprograma.com.br/">Reprograma</a>.
 <p>
-  Formada na turma 10 de front-end da <a href="https://reprograma.com.br/">Reprograma</a>.
+  Atualmente sou desenvolvedora de software no <a href="https://www.grupoicts.com.br/"> Grupo ICTS</a>, atuando principalmente como front-end, mas também dando suporte na parte de back-end para o time.
   
-  ### Aprendendo no momento
+  ### Habilidades
   
   ![HTML](https://img.shields.io/badge/-HTML-05122A??style=for-the-badge&logo=html5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A??style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-05122A??style=for-the-badge&logo=javascript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A??style=for-the-badge&logo=react)&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A??style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![GIT](https://img.shields.io/badge/-GIT-05122A??style=for-the-badge&logo=git)&nbsp;
   ![Github](https://img.shields.io/badge/-Github-05122A??style=for-the-badge&logo=github)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A??style=for-the-badge&logo=react)&nbsp;
+  ![Node.JS](https://img.shields.io/badge/-Node.js-05122A??style=for-the-badge&logo=node.js)&nbsp;
+
   
   ### Minhas redes sociais
   
