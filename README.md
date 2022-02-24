@@ -16,7 +16,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A??style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![GIT](https://img.shields.io/badge/-GIT-05122A??style=for-the-badge&logo=git)&nbsp;
   ![Github](https://img.shields.io/badge/-Github-05122A??style=for-the-badge&logo=github)&nbsp;
+  ![GitLab](https://img.shields.io/badge/-Gitlab-05122A??style=for-the-badge&logo=gitlab)&nbsp;
   ![Node.JS](https://img.shields.io/badge/-Node.js-05122A??style=for-the-badge&logo=node.js)&nbsp;
+  ![NestJS](https://img.shields.io/badge/-Nest.js-05122A??style=for-the-badge&logo=nestjs)&nbsp;
 
   
   ### Minhas redes sociais
