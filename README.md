@@ -5,7 +5,6 @@
 <p>
   Eu sou formada em administração e em 2021 resolvi fazer transição de carreira para a área de tecnologia. Fui aluna na turma 10 de front-end da <a href="https://reprograma.com.br/">Reprograma</a>.
 <p>
-  Atualmente sou desenvolvedora de software no <a href="https://www.grupoicts.com.br/"> Grupo ICTS</a>, atuando principalmente como back-end, mas também dando suporte com atividades de front-end.
   
   ### Habilidades
   
