@@ -3,7 +3,7 @@
 ### Sobre mim
 
 <p>
-  Eu sou formada em administração e em 2021 resolvi fazer transição de carreira para a área de tecnologia. Fui aluna na turma 10 de front-end da <a href="https://reprograma.com.br/">Reprograma</a>.
+  Eu sou formada em administração e em 2021 resolvi fazer transição de carreira para a área de tecnologia. Sou formada pelo Bootcamp de Desenvolvimento Front-end da <a href="https://reprograma.com.br/">Reprograma</a> e possuo qualificação profissional em Desenvolvimento de Software pela <a href="https://www.fpf-etech.com.br/">Escola Tecnológica da FPFtech</a>, além de diversos outros cursos na área.
 <p>
   
   ### Habilidades
